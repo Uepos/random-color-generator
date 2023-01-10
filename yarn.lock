@@ -3348,6 +3348,11 @@ quick-lru@^4.0.1:
   resolved "https://registry.yarnpkg.com/quick-lru/-/quick-lru-4.0.1.tgz#5b8878f113a58217848c6482026c73e1ba57727f"
   integrity sha512-ARhCpm70fzdcvNQfPoy49IaanKkTlRWF2JMzqhcJbhSFRZv7nPTvZJdcY7301IPmvW+/p0RgIWnQDLJxifsQ7g==
 
+random-color-rgb@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/random-color-rgb/-/random-color-rgb-1.1.1.tgz#e220eb784610bd879a21c6a0b81c12657fbae44b"
+  integrity sha512-LuB940oKliuBiXw4H4eHraqXYPTAxjg9w/AA6j7umKGKbVtzj+rd6FTrk2GNEg+XaZ0nOo9rw7Wsn0BuvP0mMQ==
+
 react-is@^16.13.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
